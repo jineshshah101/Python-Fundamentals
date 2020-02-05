@@ -1,1 +1,1 @@
-# Learning all the Fundamental Skills Required To Learn For Python.
+# Learning All Fundamental Skills Required For Python.
